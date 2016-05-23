@@ -12,6 +12,12 @@ PS2Keyboard	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
+begin
+available
+readScanCode
+read
+readUnicode
+
 #######################################
 # Constants (LITERAL1)
 #######################################
