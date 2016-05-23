@@ -202,7 +202,7 @@ class PS2Keyboard {
     static bool available();
 
     /**
-     * Retutns ps2 scan code.
+     * Returns the ps/2 scan code.
      */
     static uint8_t readScanCode(void);
 
